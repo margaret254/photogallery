@@ -20,7 +20,7 @@
     vertical-align: middle;
     width: 100%;
     filter: grayscale(1) brightness(0.7);
-    border-radius: 10px;
+    border-radius: 5px;
     cursor: pointer;
     transition: 0.5s linear;
   }
